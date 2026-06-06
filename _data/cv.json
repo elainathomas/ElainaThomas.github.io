@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Elaina Thomas",
+    "email": "egthomas@uw.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://elainathomas.github.io",
+    "summary": "NSF Graduate Fellow, PhD Candidate, Armbrust Lab, University of Washington",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Seattle",
       "countryCode": "US",
       "region": ""
     },
@@ -16,17 +16,17 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=wRwhrWsAAAAJ&hl=en&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-6657-8302"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/elainathomas"
       }
     ]
   },
