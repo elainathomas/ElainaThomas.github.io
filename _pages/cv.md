@@ -15,7 +15,7 @@ University of Washington
 School of Oceanography  
 Seattle, WA  
 
-(206) 551-2313 · <egthomas@uw.edu>  
+<egthomas@uw.edu>  
 [Google Scholar](https://scholar.google.com/citations?user=wRwhrWsAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/elainathomas) [file:1]
 
 Environmental microbial ecologist integrating metatranscriptomics, field incubations, and culture experiments to understand how marine microbes respond to their environment. My current work focuses on protist–organic matter interactions, coupling field-derived transcriptomes with culture growth and eventual isotope-labeled organic matter experiments to quantify physiological responses and trace organic matter uptake and fate via osmotrophy. I am seeking a postdoctoral position to develop mass spectrometry and metabolomics skills and continue investigating microbe–biogeochemical interactions. [file:1]
