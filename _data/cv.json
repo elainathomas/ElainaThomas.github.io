@@ -1,152 +1,190 @@
-{
-  "basics": {
-    "name": "Elaina Thomas",
-    "email": "egthomas@uw.edu",
-    "phone": "",
-    "website": "https://elainathomas.github.io",
-    "summary": "NSF Graduate Fellow, PhD Candidate, Armbrust Lab, University of Washington",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Seattle",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=wRwhrWsAAAAJ&hl=en&oi=ao"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/0000-0002-6657-8302"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/elainathomas"
-      }
-    ]
-  },
-  "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
-}
+Elaina Thomas  
+University of Washington                                                                                                (206) 551-2313  
+School of Oceanography                                                      [egthomas@uw.edu](mailto:egthomas@uw.edu) | [Google Scholar](https://scholar.google.com/citations?user=wRwhrWsAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/elainathomas)  
+1501 NE Boat St, Seattle, WA 98195  
+
+## Education
+
+University of Washington Graduate School of Oceanography. Seattle, WA. September 2021-present.  
+Advisor: E.V. (Ginger) Armbrust. Expected graduation June 2026.  
+
+Carleton College. Northfield, MN. Graduated March 2018.  
+B.A. in Biology  
+Thesis: Effects of dispersal ability and spatial scale on niche and neutral processes  
+Cum Laude.  
+
+## Research Experience
+
+National Science Foundation Graduate Research Fellow, University of Washington. September 2021-present.  
+Advisor: E.V. Armbrust  
+Examining the trophic capabilities of protists across large-scale ocean gradients compared to physio-chemical factors through large-scale bioinformatic data analyses, as well as field and culture experiments.  
+
+Senior Research Support Associate, MIT. January 2019 – August 2021.  
+Advisor: S.W. Chisholm  
+Carried out bioinformatic analyses for numerous projects including 16S-based identification of heterotrophs present in picocyanobacteria enrichment cultures — analysis of RNA, methylation, and genomic sequencing from dark-adapted Prochlorococcus — and identification of signatures and regulation of novel integrative elements in Prochlorococcus.  
+
+Research Assistant, Carleton College. January - November 2018.  
+Advisor: Rika Anderson  
+Analyzed hydrothermal vent metagenomes to characterize viral community structure — mined CRISPR loci to build virus-host interaction networks — and collected hydrothermal vent viral metagenomes during 2018 Lost City Expedition.  
+
+REU Student, Eco-Informatics Summer Institute, Oregon State University. June - August 2017.  
+Advisors: Julia Jones and Rebecca Hutchinson  
+Analyzed diversity of plant and pollinator communities across long timeseries of alpine meadows of the Western Cascades.  
+
+Intern, Monarch Lab, University of Minnesota. November - December 2017.  
+Conducted literature review of anthropogenic contributions to monarch butterfly habitat loss.  
+
+## Fellowships and Grants 
+
+Funding for laboratory supplies Identity, Belonging and Inquiry in Science (IBIS) Program, University of Washington ($500). 2026.  
+College of the Environment Presentation Travel Award ($1500). 2026.  
+University of Washington Graduate School Conference Presentation Travel Award ($500). 2026.  
+Egtvedt Endowed Scholarship in Oceanography, University of Washington ($7,633). Academic Year 202-25.  
+Theodore H. and Marie M. Sarchin Endowed Fellowship in Oceanography, University of Washington ($2,487). Academic Year 2024-25.  
+National Science Foundation-funded travel ($1662) to Biogeochemical Exchanges at Sea Ice Interfaces (BEPSII) workshop in Cambridge Bay, Nunavut. I was one of five U.S. graduate students to be awarded this funding.  
+National Science Foundation Graduate Research Fellowship ($138,000). 2021.  
+Adith Loss Miller '39 Scholarship, Carleton College. 2016 – 2018. Scholarship aid to qualified Carleton students who demonstrate financial need.  
+Eco-Informatics Summer Institute REU, Oregon State University, National Science Foundation. 2017  
+Division of Biology REU, Kansas State University, National Science Foundation (declined). 2017  
+National Institute for Mathematical and Biological Synthesis REU, University of Tennessee Knoxville, National Science Foundation (declined). 2017  
+Bridging Futures Scholarship I-90 Wildlife Bridges Coalition. 2014   
+
+## Honors and Awards 
+
+Graduated cum laude, Carleton College. 2018.  
+2018 Dean’s List, Carleton College. 2016 – 2017.  
+
+## Publications fix (some stuff like dates missing)
+
+\* =co-first author 
+
+Elaina Thomas, Mora J. Groussman, Sacha N. Coesel, Nicholas J. Hawco, Randelle M. Bundy, E. Virginia Armbrust. Latitude- and depth-driven divergence in protist trophic strategies revealed by a machine learning model. 2025. Github repository to use model can be found here: [https://github.com/armbrustlab/MarPRISM](https://github.com/armbrustlab/MarPRISM)  
+
+Allison Coe, Rogier Braakman, Steven J. Biller, Aldo Arellano, Christina Bliem, Nhi N. Vo, Konnor von Emster, Elaina Thomas, Michelle DeMers, Claudia Steglich, Jef Huisman, Sallie W. Chisholm. Emergence of metabolic coupling to the heterotroph Alteromonas promotes dark survival in Prochlorococcus. [https://doi.org/10.1093/ismeco/ycae131](https://doi.org/10.1093/ismeco/ycae131). ISME Commun. 4 (1). 2024.  
+
+Giovanna Capovilla, Rogier Braakman, Gregory P. Fournier, Thomas Hackl, Julia Schwartzman, Xinda Lu, Alexis Yelton, Krista Longnecker, Melissa C. Kido Soule, Elaina Thomas, Gretchen Swarr, Alessandro Mongera, Jack G. Payette, Kurt G. Castro, Jacob R. Waldbauer, Elizabeth B. Kujawinski, Otto X. Cordero, Sallie W. Chisholm. Chitin utilization by marine picocyanobacteria and the evolution of a planktonic lifestyle. [https://doi.org/10.1073/pnas.2213271120](https://doi.org/10.1073/pnas.2213271120). PNAS 120 (20). [https://news.mit.edu/2023/ancestors-prochlorococcus-microbes-chitin-0511](https://news.mit.edu/2023/ancestors-prochlorococcus-microbes-chitin-0511)  
+
+Jessie Berta-Thompson, Elaina Thomas, Andrés Cubillos-Ruiz, Thomas Hackl, Jamie W. Becker, Allison Coe, Steven J. Biller, Sallie W. Chisholm. Draft genomes of three closely related low-light-adapted Prochlorococcus. [https://doi.org/10.1186/s12863-022-01103-4](https://doi.org/10.1186/s12863-022-01103-4). BMC Genomics 24.   
+
+Thomas Hackl, Raphaël Laurenceau, Markus J. Ankenbrand, Christina Bliem, Zev Cariani, Elaina Thomas, Keven D. Dooley, Aldo A. Arellano, Shane L. Hogle, Paul Berube, Gabriel E. Leventhal, Elaine Luo, John Eppley, Ahmed Zayed, John Beaulaurier, Ramunas Stepanauskas, Matthew B. Sullivan, Edward F. DeLong, Steven J. Biller, Sallie W. Chisholm. Novel integrative elements and genomic plasticity in ocean ecosystems. [https://doi.org/10.1016/j.cell.2022.12.006](https://doi.org/10.1016/j.cell.2022.12.006). Cell 186 (1). [https://schaechter.asmblog.org/schaechter/2023/05/gene-transfer-in-the-ocean.html](https://schaechter.asmblog.org/schaechter/2023/05/gene-transfer-in-the-ocean.html)  
+[https://www.sciencedirect.com/science/article/pii/S0092867422015112](https://www.sciencedirect.com/science/article/pii/S0092867422015112)  
+[https://www.nature.com/articles/d41586-023-00001-8](https://www.nature.com/articles/d41586-023-00001-8). [https://news.mit.edu/2023/genetic-information-transfer-ocean-microbe-0105](https://news.mit.edu/2023/genetic-information-transfer-ocean-microbe-0105)  
+
+William J Brazelton, Julia M McGonigle, Shahrzad Motamedi, H Lizethe Pendleton, Katrina I Twing, Briggs C Miller, William J Lowe, Alessandrina M Hoffman, Cecilia A Prator, Grayson L Chadwick, Rika E Anderson, Elaina Thomas, David A Butterfield, Karmina A Aquino, Gretchen L Früh-Green, Matthew O Schrenk, Susan Q Lang. Metabolic strategies shared by basement residents of the Lost City hydrothermal field. 2022. [https://doi.org/10.1128/aem.00929-22](https://doi.org/10.1128/aem.00929-22). Applied and Environmental Microbiology 88 (17).  
+
+Elaina Thomas\*, Rika Anderson\*, Viola Li, Jenni Rogan, and Julie A. Huber. 2021. Diverse viruses in deep-sea hydrothermal vent fluids have restricted dispersal across ocean basins. [https://doi.org/10.1128/mSystems.00068-21](https://doi.org/10.1128/mSystems.00068-21). mSystems 6 (3).   
+[https://www.nasw.org/article/hidden-world-viruses-thrives-extreme-environments-near-hydrothermal-vents](https://www.nasw.org/article/hidden-world-viruses-thrives-extreme-environments-near-hydrothermal-vents)  
+
+Sean M. Kearney, Elaina Thomas\*, Allison Coe, and Sallie W. Chisholm. 2021. Microbial diversity of co-occurring heterotrophs in cultures of marine picocyanobacteria. [https://doi.org/10.1186/s40793-020-00370-x](https://doi.org/10.1186/s40793-020-00370-x). Environmental Microbiome 16 (1).   
+
+Allison Coe, Steven J. Biller, Elaina Thomas, Konstantinos Boulias, Christina Bliem, Aldo Arellano, Keven Dooley, Anna N. Rasmussen, Kristen LeGault, Tyler J. O’Keefe, Eric L. Greer, and Sallie W. Chisholm. 2021. Coping with darkness: the adaptive response of marine picocyanobacteria to repeated light energy deprivation. [https://doi.org/10.1002/lno.11880](https://doi.org/10.1002/lno.11880). Limnology and Oceanography 66 (9).   
+
+Julia A. Jones, Rebecca Hutchinson, Andy Moldenke, Vera Pfeiffer, Edward Helderop, Elaina Thomas, Josh Griffin, and Amanda Reinholtz. 2019. Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape. [https://doi.org/10.1007/s10980-018-0740-y](https://doi.org/10.1007/s10980-018-0740-y). Landscape Ecology 34 (5): 997–1014.   
+
+## Teaching Experience
+
+Chemistry of Marine Organic Carbon TA, University of Washington. January – March 2026. 103 students. Upper-level course. Led weekly laboratory sessions (25 and 24 students). Supervised their experimental work, graded problem sets and exams, and provided academic support.   
+
+Marine Biogeochemical Cycles TA, University of Washington. March – June 2023. 106 students. Upper-level course. Led weekly required workshop sessions (28 and 26 students). Provided feedback and assistance in problem set and exam studying once a week during my office hours (average attendance of 10+ students). Created problems for problem sets and workshop sessions. Graded and provided constructive feedback on workshop questions, problem sets, and exams.   
+
+Statistics Lab Assistant, Carleton College. September 2017 - March 2018.  
+Assisted students with R and problem sets for Probability, Linear Regression, and Statistical Inference courses.   
+
+Linear Algebra and Calc. III Grader, Carleton College. September 2017 - March 2018.   
+
+## Presentations 
+
+Elaina Thomas. Trophic response of protists to latitudinal and depth-driven changes in their environment. Virtual and in-person poster. Simons Collaboration on Ocean Processes and Ecology Annual Meeting (2024).  
+
+Elaina Thomas. Mixotrophic protists employ diverse strategies in response to nutrients and light across the North Pacific. Oral presentation. Ocean Sciences (2024).   
+
+Elaina Thomas. Machine learning elucidates the diverse trophic responses of protists to latitudinal and depth-driven changes in their environment. Virtual and in-person poster. Simons Collaboration on Ocean Processes and Ecology Annual Meeting (2023).   
+
+Elaina Thomas. Predicted trophic mode of protists across nutrient, temperature, and light conditions of the North Pacific. Oral Presentation. University of Washington Biological Oceanography Seminar (2023).  
+
+Elaina Thomas. Predicted trophic mode of protists at the surface and deep chlorophyll maximum of the North Pacific. Oral presentation. University of Washington Oceanography Graduate Symposium (2022).  
+
+Elaina Thomas. Predicted trophic mode of protists at the surface and DCM of the subtropical gyre and transition zone. Virtual poster. Simons Collaboration on Ocean Processes and Ecology Annual Meeting (2022).  
+
+Elaina Thomas. Mixotrophic protists: sinks or sources of CO2 across the ocean? Oral presentation. Graduate Climate Conference (2022).  
+
+Elaina Thomas, Rika Anderson, Viola Li, Jenni Rogan, Julie A. Huber. Diverse viruses have restricted biogeography in deep-sea hydrothermal vent fluids. Virtual poster. AGU Fall Meeting (2020).   
+
+Elaina Thomas, Sean Kearney, Raphaël Laurenceau, Nicolas Raho, and Sallie W. Chisholm. Mechanism behind lanthipeptide gene diversification in marine picocyanobacteria. Virtual poster. Simons Collaboration on Ocean Processes and Ecology Annual Meeting (2020).   
+
+Elaina Thomas, Thomas Hackl, Raphaël Laurenceau, Markus J. Ankenbrand, Christina Bliem, Zev Cariani, Paul Berube, Steven J. Biller, Ramunas Stepanauskas, Sallie W. Chisholm. Role of integrative elements in gene transfer and niche adaptation in Prochlorococcus. Poster. Ocean Sciences (2020).   
+
+Elaina Thomas. Separating nestedness from species replacement in measures of beta diversity in montane meadows of the Western Cascades. Poster. Carleton College Student Research Symposium (2017).   
+
+## Mentoring 
+
+Lacie Evans, University of Washington Oceanography undergrad. Through Identity, Belonging and Inquiry in Science (IBIS) Program. “Adaptation of different phytoplankton to varying nitrogen concentrations across ocean basins.” January – June 2026. Presented poster at IBIS symposium and at University of Washington Undergraduate Research Symposium.  
+
+Sage Otulo, University of Washington Oceanography undergraduate. Through Identity, Belonging and Inquiry in Science (IBIS) Program. “Diversity of Pelagomonas isolates.” January – June 2025. Presented poster at IBIS symposium and at University of Washington Undergraduate Research Symposium. Now, undergraduate student worker in University of Washington ARGO float lab.  
+
+Maia Wrice, University of Washington Marine Biology undergraduate. Through Identity, Belonging and Inquiry in Science (IBIS) Program. “Expression of motility-related genes across the diel cycle within an open-ocean protist community.” January – June 2024. Presented poster at IBIS symposium and at University of Washington Undergraduate Research Symposium. Accepted to present poster at Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS).  
+
+University of Washington Data Science in Oceanography Undergraduate Summer Program. 23 undergraduates from six countries and one US territory. August 2023.   
+
+Celeste Castañeda-Lopez, University of Washington Marine Biology undergraduate. Through Identity, Belonging and Inquiry in Science (IBIS) Program. “Response of a cosmopolitan mixotrophic plankton (Chrysochromulina) to light availability.” January – June 2023. Presented poster at IBIS symposium and Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS) poster. Now, Applied Chemical Science and Technology Master’s student at the University of Washington.  
+
+## Outreach
+
+Presenter, How your data science skills can be used for biological research. Two oral presentations. University of Washington Youth and Teen Programs Introduction to Math Modeling. August 6, 2025 and July 23, 2025.  
+
+STEM professional mentor, Letters to a Pre-Scientist. Sent and received letters to a student in a underresourced middle school in order to demystify STEM career pathways, broaden awareness of who can become a STEM professional, and inspire students’ exploration of STEM. 2025, 2021.  
+
+Presenter, How your math modeling and data science skills can be used for biological research. Two oral presentations. University of Washington Youth and Teen Programs Introduction to Math Modeling. August 22, 2024.  
+
+Demo leader, Wedgwood Elementary School Science Night. April 26, 2024. Ran the Great Plankton Race activity [https://coast.noaa.gov/estuaries/curriculum/the-great-plankton-race.html](https://coast.noaa.gov/estuaries/curriculum/the-great-plankton-race.html).  
+
+NSF GRFP peer reviewer. October 2, 2024, October 5, 2023, October 6, 2022. As part of a workshop organized by the University of Washington Office of Fellowships and Awards, I reviewed the personal statements of two University of Washington undergraduate or graduate students, and provided advice over Zoom for an hour and a half.  
+
+Presenter, Introduction to data science in biology: how I leverage bioinformatics and machine learning to study the trophic mode oceanic protists. Oral Presentation. University of Washington Data Science in Oceanography Undergraduate Summer Program. August 8, 2024.   
+
+Demo leader, University of Washington Aquatic Sciences Open House. May 21, 2023. 582 visitors. Ran the Great Plankton Race activity [https://coast.noaa.gov/estuaries/curriculum/the-great-plankton-race.html](https://coast.noaa.gov/estuaries/curriculum/the-great-plankton-race.html).   
+
+Mentor, Graduate Application Mentorship Program mentor. October – December 2021, September – December 2022. Met multiple times each application cycle with a prospective graduate student to provide advice on navigating the process of applying to graduate oceanography programs.  
+
+University of Washington Libraries Storytelling Fellow. July – August 5, 2022. As a participant in this podcasting workshop, I learned digital-storytelling skills and technologies, and I created a podcast series on data sonification in the ocean sciences. I interviewed graduate students conducting diverse research across physical and biological oceanography about how their research data would sound if it were to be sonified. I then created a musical piece based on sonification of phytoplankton abundances across the North Pacific.   
+
+Science fair mentor, Bryant Elementary School. January - February 2022.   
+Led a group of four fifth-graders in the development of a science fair project: from designing an experiment, teaching the scientific method, to data analysis and presentation.  
+
+Co-organizer of MIT screening of Picture a Scientist. October 1, 2020.  
+Organized virtual screening of Picture a Scientist – a film about sexism and racism in science – followed by a breakout discussion and panel of MIT professors and deans for 450 people from MIT and other universities.  
+
+High school student co-supervisor, Chisholm Lab. June - August 2020.  
+Co-mentored two student interns, taught them bioinformatics, and directed them in an analysis of RNA-Seq data collected from Prochlorococcus.   
+
+Demo leader, MIT Museum Girls Day Exploring Our Watery World. November 2, 2019.   
+
+## Department 
+
+Banse committee organizer. September 2025-present. Led a committee to select and coordinate the visit of one professor from a different institution to give a talk to the department, meet with faculty, postdoctoral researchers, and graduate students each quarter.  
+
+DEI committee member. 2025-present. Helped rewrite School of Oceanography statement of purpose. [https://www.ocean.washington.edu/story/Diversity_Equity_and_Inclusion](https://www.ocean.washington.edu/story/Diversity_Equity_and_Inclusion)  
+
+Biological Oceanography note taker for faculty meetings. August 2024 – present.  
+
+Academic and Recreational Graduate Oceanographers. September 2024 – present. Contributed to a committee on improving graduate student academic affairs.  
+
+Program on Climate Change steering committee member. September 2024 – June 2025.   
+
+Organized talks presented by grad students, postdoctoral scholars, research scientists, and professors for prospective graduate students. March 7, 2024.   
+
+Helped coordinate Ocean Memory Workshop. October 12 – 16, 2023.   
+
+## Fieldwork (49 days at sea)
+
+SCOPE-Gradients 5. Metatranscriptomics and experimental incubations of surface and DCM protist community, with particular focus on trophic mode. R/V Thompson. Chief Scientists E.V. Armbrust and Randelle Bundy. January 21-February 18, 2023.  
+
+Biogeochemical Exchanges at Sea Ice Interfaces (BEPSII), Canadian High Arctic Research Station, Cambridge Bay, Nunavut. May 14-23, 2022. Attended lectures on sea ice physics, chemistry, and biology, and practiced field sampling of snow, sea ice, and collected eukaryotic plankton from within and under sea ice.  
+
+Return to the Lost City Cruise. Viral metagenomics of a serpentinization-controlled hydrothermal vent system. Lost City Hydrothermal Field. R/V Atlantis. Chief Scientists Susan Lang and William Brazelton. September 8-29, 2018.   
+
+Western Cascades, Oregon. Plant-pollinator interactions in alpine meadows. PIs Julia Jones and Rebecca Hutchinson. June-August 2017.   
+
+## Manuscript reviewer for the following journals: 
+
+Nature Communications. The ISME Journal.
