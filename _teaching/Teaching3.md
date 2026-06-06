@@ -1,7 +1,7 @@
 ---
 title: Marine Biogeochemical Cycles Teaching Assistant
 collection: teaching
-type: Graduate/Undergraduate course
+type: Graduate course
 permalink: /teaching/2023-spring-marine-biogeochemical-cycles-ta
 venue: University of Washington, School of Oceanography
 date: 2023-03-01
