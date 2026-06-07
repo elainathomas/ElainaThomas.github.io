@@ -4,5 +4,4 @@ collection: talks
 type: "Oral presentation"
 venue: "Graduate Climate Conference"
 date: 2022
-location: ""
 ---
