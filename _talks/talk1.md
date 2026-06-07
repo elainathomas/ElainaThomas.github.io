@@ -3,5 +3,5 @@ title: "Trophic response of protists to latitudinal and depth-driven changes in 
 collection: talks
 type: "Poster"
 venue: "Simons Collaboration on Ocean Processes and Ecology Annual Meeting"
-date: 2024
+date: 2024-01-01
 ---
