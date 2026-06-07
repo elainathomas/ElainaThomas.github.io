@@ -2,5 +2,5 @@
 title: Linear Algebra and Calculus III Grader
 type: Undergraduate course
 venue: Carleton College, Department of Mathematics and Statistics
-period: September 2017–March 2018
+date: 2017-01-01
 ---
