@@ -3,5 +3,5 @@ title: "Mechanism behind lanthipeptide gene diversification in marine picocyanob
 collection: talks
 type: "Poster"
 venue: "Simons Collaboration on Ocean Processes and Ecology Annual Meeting"
-date: 2020
+date: 2020-01-01
 ---
