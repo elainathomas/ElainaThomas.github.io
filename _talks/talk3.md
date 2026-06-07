@@ -1,0 +1,8 @@
+---
+title: "Machine learning elucidates the diverse trophic responses of protists to latitudinal and depth-driven changes in their environment"
+collection: talks
+type: "Poster"
+venue: "Simons Collaboration on Ocean Processes and Ecology Annual Meeting"
+date: 2023
+location: "Virtual and in-person"
+---
