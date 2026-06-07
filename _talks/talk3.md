@@ -3,6 +3,6 @@ title: "Machine learning elucidates the diverse trophic responses of protists to
 collection: talks
 type: "Poster"
 venue: "Simons Collaboration on Ocean Processes and Ecology Annual Meeting"
-date: 2023
+date: 2023-01-01
 location: "Virtual and in-person"
 ---
