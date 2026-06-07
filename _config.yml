@@ -26,11 +26,11 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "NSF Graduate Research Fellow, PhD Candidate, Armbrust Lab"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "egthomas@uw.edu" 
 
   # Academic websites
   academia         : # URL
