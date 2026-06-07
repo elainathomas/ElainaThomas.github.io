@@ -2,7 +2,7 @@
 title: Marine Biogeochemical Cycles Teaching Assistant
 type: Undergraduate course
 venue: University of Washington, School of Oceanography
-period: March–June 2023
+period: 2023-01-01
 location: Seattle, WA, USA
 ---
 
