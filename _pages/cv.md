@@ -25,7 +25,7 @@ Environmental microbial ecologist integrating metatranscriptomics, field incubat
 ## Education
 
 **University of Washington, Graduate School of Oceanography** – Seattle, WA  
-PhD in Oceanography, September 2021–present (expected graduation September 2027)  
+PhD in Oceanography, September 2021–present (expected graduation 2027)  
 Advisor: E. V. Armbrust  
 MS in Oceanography, awarded May 2024  
 Advanced to PhD candidacy December 2025  
